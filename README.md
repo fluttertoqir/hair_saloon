@@ -1,4 +1,4 @@
-# hairsalon_prokit
+# hairsalon_template
 
 A new Flutter project.
 
